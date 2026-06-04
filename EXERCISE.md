@@ -58,6 +58,6 @@ You should be able to defend every line that ends up in your PR. The follow-up c
 
 ## What happens next
 
-After you submit, we will schedule a 45 minute conversation. It is code-review shaped: we walk through your PR together and discuss the choices you made. There is no whiteboard round and no follow-on take-home. The PR and that conversation are the entire evaluation.
+After you submit, we will schedule a 45 minute conversation. It is code-review shaped: we walk through your PR together and discuss the choices you made.
 
 Good luck. Reach out if anything in this brief is ambiguous.
